@@ -1,0 +1,18 @@
+September 27, 2010 - Version 2.0.1
+* jQuery.noConflict(); is called only once. Previously was called multiple times from each menu load.
+* Added new default menus options
+* Fixed some menu css bugs
+
+September 23, 2010 - Version 2.0
+* Includes folder was moved to flexipanel folder from the theme folder
+* Default theme and aadmin options now are part of FlexiPanel and not set per theme
+* The layout was rewrittent and the Blueprint css framework is not used anymore
+* Widget and plugin default options are set from the widget/plugin ile itself. Can be overwritten by loading the theme
+* Any default option can be easily overwritten before callig the $theme->load() method once the theme is initialized
+
+August 2, 2010 - Version 1.1
+* Extensions was converted to standart WordPress widgets
+* 10 custom widgets added: Flexi Ads, Flexi Banners 125, Flexi Comments, Flexi Posts, Fleixi Search, Flexi Social Connect, Flexi Social Share, Flexi Tabs, Flexi Text, Flexi Tweets
+
+June 30, 2010 - Version 1.0
+* First release!

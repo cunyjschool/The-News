@@ -1,0 +1,272 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: TheNews/single.php:42
+#: TheNews/loop.php:32
+msgid "% Comments"
+msgstr ""
+
+#. Text in function
+#: TheNews/flexipanel/widgets/tweets.php:62
+msgid "%s ago"
+msgstr ""
+
+#. Text in function
+#: TheNews/single.php:42
+#: TheNews/loop.php:32
+msgid "1 Comment"
+msgstr ""
+
+#. Text in function
+#: TheNews/comments.php:22
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#. Text in function
+#: TheNews/loop.php:118
+msgid "<span>&laquo;</span> Older posts"
+msgstr ""
+
+#. Text in function
+#: TheNews/flexipanel/widgets/search.php:1
+msgid "A simple and clean search form widget without default widget css styling."
+msgstr ""
+
+#. Text in function
+#: TheNews/flexipanel/widgets/text.php:1
+msgid "A simple text widget without applying the default widget css styling. You may use any text or html code here."
+msgstr ""
+
+#. Text in function
+#: TheNews/flexipanel/widgets/ads.php:1
+msgid "A simple widget for displaying ads without applying the default widget css styling."
+msgstr ""
+
+#. Text in function
+#: TheNews/flexipanel/widgets/banners-125.php:1
+msgid "Add 125x125 banners."
+msgstr ""
+
+#. Text in function
+#: TheNews/flexipanel/widgets/social-connect.php:1
+msgid "Add links/buttons to your social network profiles."
+msgstr ""
+
+#. Text in function
+#: TheNews/flexipanel/widgets/social-share.php:1
+msgid "Add social network sharing icons. Uses AddThis.com"
+msgstr ""
+
+#. Text in function
+#: TheNews/flexipanel/widgets/posts.php:1
+msgid "Advanced widget for displaying the recent posts or posts from the selected categories or tags."
+msgstr ""
+
+#. Text in function
+#: TheNews/flexipanel/widgets/comments.php:1
+msgid "Advanced widget for displaying the recent posts with avatars"
+msgstr ""
+
+#. Text in function
+#: TheNews/flexipanel/widgets/tweets.php:1
+msgid "Advanced widget for displaying the recent tweets"
+msgstr ""
+
+#. Text in echo
+#: TheNews/footer.php:14
+msgid "All Rights Reserved."
+msgstr ""
+
+#. Text in function
+#: TheNews/flexipanel/widgets/tabs.php:1
+msgid "Allows you to add multiple widgets in tabs. "
+msgstr ""
+
+#. Text in echo
+#: TheNews/flexipanel/widgets/comments.php:148
+msgid "Author"
+msgstr ""
+
+#. Text in echo
+#: TheNews/flexipanel/widgets/comments.php:150
+msgid "Avatar"
+msgstr ""
+
+#. Text in echo
+#: TheNews/archive.php:11
+msgid "Blog Archives"
+msgstr ""
+
+#. Text in echo
+#: TheNews/flexipanel/widgets/tabs.php:112
+#: TheNews/flexipanel/widgets/posts.php:80
+msgid "By"
+msgstr ""
+
+#. Text in function
+#: TheNews/archive.php:11
+msgid "Category: <span>%s</span>"
+msgstr ""
+
+#. Text in echo
+#: TheNews/404.php:11
+msgid "Error 404"
+msgstr ""
+
+#. Text in function
+#: TheNews/comments.php:23
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Text in function
+#: TheNews/loop.php:119
+msgid "Newer posts <span>&raquo;</span>"
+msgstr ""
+
+#. Text in function
+#: TheNews/single.php:42
+#: TheNews/loop.php:32
+msgid "No comments"
+msgstr ""
+
+#. Text in echo
+#: TheNews/loop.php:95
+msgid "No results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr ""
+
+#. Text in echo
+#: TheNews/flexipanel/FlexiTheme.php:1
+msgid "Not Found"
+msgstr ""
+
+#. Text in echo
+#: TheNews/search.php:18
+msgid "Nothing Found"
+msgstr ""
+
+#. Text in function
+#: TheNews/flexipanel/FlexiTheme.php:1
+msgid "Page %s"
+msgstr ""
+
+#. Text in function
+#: TheNews/page-fullwidth.php:45
+#: TheNews/page.php:45
+#: TheNews/single.php:62
+msgid "Pages:"
+msgstr ""
+
+#. Text in echo
+#: TheNews/flexipanel/widgets/tabs.php:131
+#: TheNews/flexipanel/widgets/posts.php:101
+msgid "Permalink to "
+msgstr ""
+
+#. Text in function
+#: TheNews/plugins/featuredposts/template.php:45
+#: TheNews/plugins/featuredposts/template.php:53
+#: TheNews/loop.php:22
+#: TheNews/loop.php:78
+msgid "Permalink to %s"
+msgstr ""
+
+#. Text in echo
+#: TheNews/single.php:72
+#: TheNews/loop.php:65
+msgid "Posted in:"
+msgstr ""
+
+#. Text in echo
+#: TheNews/footer.php:23
+msgid "Powered by"
+msgstr ""
+
+#. Text in function
+#: TheNews/flexipanel/includes/menu-primary.php:1
+msgid "Primary Menu"
+msgstr ""
+
+#. Text in function
+#: TheNews/functions.php:1
+msgid "Primary Sidebar"
+msgstr ""
+
+#. Text in echo
+#: TheNews/flexipanel/widgets/tabs.php:131
+#: TheNews/flexipanel/widgets/posts.php:101
+msgid "Read More &raquo;"
+msgstr ""
+
+#. Text in echo
+#: TheNews/search.php:13
+msgid "Search Results for:"
+msgstr ""
+
+#. Text in function
+#: TheNews/flexipanel/FlexiTheme.php:1
+msgid "Search results for %s"
+msgstr ""
+
+#. Text in function
+#: TheNews/flexipanel/includes/menu-secondary.php:1
+msgid "Secondary Menu"
+msgstr ""
+
+#. Text in function
+#: TheNews/functions.php:1
+msgid "Secondary Sidebar"
+msgstr ""
+
+#. Text in function
+#: TheNews/search.php:20
+msgid "Sorry, but nothing matched your search criteria: %s. Please try again with some different keywords."
+msgstr ""
+
+#. Text in function
+#: TheNews/single.php:75
+#: TheNews/loop.php:68
+msgid "Tags:"
+msgstr ""
+
+#. Text in echo
+#: TheNews/flexipanel/widgets/comments.php:149
+msgid "The Comment"
+msgstr ""
+
+#. Text in echo
+#: TheNews/404.php:15
+msgid "The page you requested could not be found."
+msgstr ""
+
+#. Text in function
+#: TheNews/functions.php:1
+msgid "The primary sidebar widget area"
+msgstr ""
+
+#. Text in function
+#: TheNews/sidebar.php:27
+msgid "The primary sidebar widget area. <a href=\"%s\">Click here</a> to add some widgets now."
+msgstr ""
+
+#. Text in function
+#: TheNews/functions.php:1
+msgid "The secondary sidebar widget area"
+msgstr ""
+
+#. Text in function
+#: TheNews/sidebar.php:27
+msgid "The secondary sidebar widget area. <a href=\"%s\">Click here</a> to add some widgets now."
+msgstr ""
+
+#. Text in echo
+#: TheNews/comments.php:4
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#. Text in echo
+#: TheNews/footer.php:34
+msgid "theme by"
+msgstr ""
